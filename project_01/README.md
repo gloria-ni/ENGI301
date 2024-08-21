@@ -1,4 +1,4 @@
-<h1> Tap Test Device </h1>
+<h1> TapFreq Hand Tremor Diagnosis Device </h1>
 
 ## Introduction
 This repository provides the code needed to run TapFreq, a Hand Tremor Tap Test Device, on the PocketBeagle.  For more information on the device and constructing the hardware,  visit the [hackster.io](https://www.hackster.io/gloria-ni/tapfreq-hand-tremor-tap-test-device-5f0837) project page.
